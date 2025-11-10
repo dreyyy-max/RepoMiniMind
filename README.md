@@ -7,7 +7,7 @@ The goal of this project is to practice core programming concepts, including use
 Substraction, multiplication and division,
 Extended conversation responses,
 Cleaner input handling,
-improved error messaging and formatting.
+Improved error messaging and formatting.
 # What I`m learning through this project
 Python logic and control flow,
 Working with user inputs,
